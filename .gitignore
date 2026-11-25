@@ -1,7 +1,6 @@
 .venv/
 venv/
 .env
-user.json
 __pycache__/
 *.py[cod]
 
